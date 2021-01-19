@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 folders='Compressed Documents Images Music Programs Videos'
 comp="*.zip *.tar.gz"
