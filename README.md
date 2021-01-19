@@ -17,8 +17,9 @@ Here's a description of what the crontab -e command does, taken directly from th
   installed automatically.
   
  #Some hints for crontab
-  * * * * * /xxx/../abc.xy  run cron job every minute
-  0 * * * * /xxx/../abc.xy  run cron job every hour
-  0 0 * * * /xxx/../abc.xy  run cron job every midnight
+ 
+ * * * * * /xxx/../abc.xy  run cron job every minute
+ 0 * * * * /xxx/../abc.xy  run cron job every hour
+ 0 0 * * * /xxx/../abc.xy  run cron job every midnight
   
   //FOR MORE CRON JOB TIMINGS VIST CRONTAB.GURU//
